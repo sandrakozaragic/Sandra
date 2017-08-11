@@ -6,5 +6,6 @@ int main()
 	printf("Hello again!\n");
 	printf("4.\n");
 	printf("Guess who is back.\n");
+	printf("This is getting ridiculous.\n");
 	return 0;
 }
